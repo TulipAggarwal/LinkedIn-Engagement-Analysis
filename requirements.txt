@@ -1,0 +1,5 @@
+altair==4.2.0
+pandas==1.2.3
+streamlit==1.12.2
+streamlit-aggrid==0.2.3.post2
+openpyxl==3.0.10
