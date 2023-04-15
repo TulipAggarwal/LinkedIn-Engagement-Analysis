@@ -36,6 +36,7 @@ The first part of the code sets up the page title and a sidebar with buttons for
 This project offers a unique feature that sets it apart from LinkedIn's analytics. While LinkedIn restricts users to view engagement and impressions data for a pre-determined timeframe, this project allows users to choose their own timeline. Moreover, the project presents this data in a clear and easy-to-understand way, with daily visualizations of engagements, impressions, and engagement-to-impression percentage. In addition to these visualizations, the project also provides a tabular form of data that shows changes, averages, and totals for impressions and engagements during the chosen period. This comprehensive data analysis allows users to track their LinkedIn activity and gain valuable insights into their audience engagement. Overall, this project provides an effective project for users to monitor and improve their LinkedIn presence.
 
 ## Screenshots
+
 ### Welcome Page
 ![image](https://user-images.githubusercontent.com/93984886/225281233-a7cfe60a-67c0-4fec-ad62-667141e78d01.png)
 
