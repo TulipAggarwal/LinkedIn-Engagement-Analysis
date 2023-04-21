@@ -3,6 +3,7 @@
 ## Link to the deployed Website
 [LinkedIn Engagement Analysis](https://linkedin-engagement.streamlit.app/)
 
+
 ## Description
 This project has been designed to provide users with a comprehensive tool for tracking and analyzing the performance of their LinkedIn posts. By using this project, users can gain insights into the effectiveness of their content strategy and identify areas for improvement. One of the primary functions of this project is to monitor the performance of LinkedIn posts over a specified amount of time. Users can select a time range and the project will provide them with a detailed report of the engagement levels and impressions of their posts received during that period. The project also analyzes the engagement levels of each post, taking into account likes, comments, shares, and other interactions. This analysis can help users to identify which posts were most successful in engaging their audience and which ones may need improvement. In addition, the project calculates the percentage of engagement per impression, providing users with an understanding of the effectiveness of their content in reaching and engaging their intended audience.
 
